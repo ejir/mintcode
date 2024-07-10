@@ -1,5 +1,8 @@
 # Mint
 A reliable C IDE for Students
+
+![demo](./assets/demo.png)
+
 ## Development
 ```
 npm install
