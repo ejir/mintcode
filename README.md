@@ -1,19 +1,19 @@
-#Mint
+# Mint
 A reliable C IDE for Students
-##Development
+## Development
 ```
 npm install
 npm run tauri dev
 ```
 
-##Build
+## Build
 
 ```
 npm install
 npm run build
 ```
 Based on Tauri + React + RemixIcon + Tailwindcss + Ace + Clangd
-###TodoList
+### TodoList
 
 - [ x] impl workspace
 - [ ] impl console
